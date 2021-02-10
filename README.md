@@ -12,6 +12,7 @@ Foi utilizada as seguintes biliotecas:
 
 ## Experimento
 Foi utilizado o video que se encontra no link abaixo junto com o video de resultado. Não foi feita nenhum tipo de avaliação do método por questão de tempo, mas acredito que melhorando a questão de preprocessamento que foi bem simples, mudanças na ferramenta OCR como configuração e utilizando de regiões de interresse melhorariam em muito o tempo de processamento quanto a acurácia.
+- https://drive.google.com/drive/folders/1q4yRcySNawy5bG2tTI6tiJNXkXCqMlkc?usp=sharing
 
 # Site das Bibliotecas utilizadas
 - https://pypi.org/project/opencv-python/
