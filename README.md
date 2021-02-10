@@ -11,7 +11,7 @@ Foi utilizada as seguintes biliotecas:
 - difflib: Essa biblioteca tem um feauture muito interessante que da em porcentagem a semelhança de strings. Como a taxa de falso positivos encontrados no texto foi extramente grande da primeira vez e em alguns frames o texto reconhecido pelo pytesseract não é exato e muda alguns caracteres do normal, foi utilizado essa lib para caso encontre palavras semelhantes as considerassem. 
 
 
-#Site das Bibliotecas utilizadas
-https://pypi.org/project/opencv-python/
-https://pypi.org/project/pytesseract/
-https://docs.python.org/3/library/difflib.html
+# Site das Bibliotecas utilizadas
+- https://pypi.org/project/opencv-python/
+- https://pypi.org/project/pytesseract/
+- https://docs.python.org/3/library/difflib.html
